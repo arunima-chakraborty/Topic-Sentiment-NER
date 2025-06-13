@@ -14,7 +14,7 @@ I have divided this project into 2 parts.
      
 2. [QAT: Quantized Model on LoRA Config](https://github.com/arunima-chakraborty/Topic-Sentiment-NER/tree/main/LORA%20Config)
    - 
-   - Model class and data class are defined same as PTQ version, and have added LORA config parameters to train the model in 8 bit format itself. 
+   - [lora-training.ipynb](https://github.com/arunima-chakraborty/Topic-Sentiment-NER/blob/main/LORA%20Config/lora-training.ipynb): Model class and data class are defined same as PTQ version, and have added LORA config parameters to train the model in 8 bit format itself. 
 
 
 
